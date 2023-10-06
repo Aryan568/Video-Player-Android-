@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="show_handout">Show Handout</string>
+    <string name="todo">TODO</string>
+</resources>
